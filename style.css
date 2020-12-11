@@ -1,0 +1,149 @@
+*
+{
+    margin: 0;
+    padding: 0;
+   }
+ body{
+    background-color: rgba(10, 8, 8, 0.884);
+ }
+ .header{
+     background-color: black;
+ }
+.header h1{
+    padding-left: 12em;
+    padding-top: 2.5em;
+    font-size: 2.5em;
+    font-family: cursive;
+    color: white;
+    
+}
+.header h2{
+    padding-left: 33.25em;
+    font-family: cursive;
+    font-style: italic;
+    color: white;
+    
+}
+
+.header img{
+float: right;
+position: absolute;
+right: 0.05em;
+top: 0em;
+
+}
+.i2 img{
+    position: absolute;
+    left: 6em;
+    height: 20em;
+}
+.i3 img{
+    position: absolute;
+    top: 12em;
+    right: 31em;
+}
+.bod{
+    margin-top: 12.5em;
+    color: whitesmoke;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.644);
+}
+.bod ul{
+    font-size: 1.9em;
+}
+.bod img{
+    position: absolute;
+    left: 1.5em;
+    
+}
+.i1 img{
+    position: absolute;
+    left: 15em;
+}
+.content{
+    background-color: rgba(0, 0, 0, 0.63);
+}
+.content h1
+{
+    padding-left: 17.5em;
+    color: rgb(235, 12, 12);
+}
+.content ul{
+    padding-left: 22.5em;
+    font-size: 1.5em;
+    color: tomato;
+    line-height: 2em;
+}
+.info ul{
+    font-size: 1.5em;
+    color: rgb(238, 238, 119);
+    line-height: 2em;
+    font-size: 1.5em;
+    padding-left: 40px;
+}
+.content img{
+    position: absolute;
+    right: 5em;
+    top: 38em;
+}
+.info h1{
+    color: yellow;
+   background-color: rgba(0, 0, 0, 0.397);
+text-align: center;
+}
+.skills{
+    background-color: rgba(0, 0, 0, 0.541);
+}
+.skills h1{
+    color: lightcyan;
+    text-align: left;
+    font-size: 2.5em;
+}
+.skills li{
+  
+    color: lightcyan;
+    font-size: 1.5em;
+}
+.skills h2{
+    text-align: right;
+    color: lightgrey;
+    font-size: 2.5em;
+}
+
+.hey li{
+    color: lightyellow;
+    text-align: right;
+    font-size: 1.6em;
+    line-height: 1.5em;
+
+}
+.hey img{
+    position: absolute;
+    top: 80em;
+   
+}
+.skills img{
+    position: absolute;
+    left: 39em;
+    top: 70em;
+}
+.footer{
+    background-color: rgba(236, 211, 211, 0.274);
+    padding-top: 5em;
+color: white;
+font-size: 1.2em;
+text-align: center;
+}
+.insta{
+   position: relative;
+   right: 6em;
+}
+.fb{
+    position: relative;
+    bottom: 2.6em;
+}
+.linked{
+    position: relative;
+    bottom: 5.5em;
+    left: 6em;
+}
